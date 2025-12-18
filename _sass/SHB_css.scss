@@ -1,6 +1,7 @@
 // Force white background everywhere
 body {
   background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 html {
@@ -11,10 +12,12 @@ html {
 .container,
 .container-footer {
   background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .jumbotron {
   background-color: #ffffff !important;
+  color: #000000 !important;
   padding:20px; 
   padding-bottom:7px; 
   margin-top:22px; 
@@ -45,18 +48,39 @@ html {
 
 .panel-footer {
   background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .card {
   background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 section#footer {
   background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .well-collapse {
   background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+// Force all text to black
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
+p, span, div, li, td, th {
+  color: #000000 !important;
+}
+
+a {
+  color: #000000 !important;
+}
+
+a:hover {
+  color: #333333 !important;
 }
 
 .btn {
