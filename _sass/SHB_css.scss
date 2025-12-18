@@ -11,9 +11,9 @@
   --bs-secondary-color: #000000 !important;
   --bs-secondary-color-rgb: 0, 0, 0 !important;
   --bs-heading-color: #000000 !important;
-  --bs-link-color: #000000 !important;
-  --bs-link-color-rgb: 0, 0, 0 !important;
-  --bs-link-hover-color: #333333 !important;
+  --bs-link-color: #4A90E2 !important;
+  --bs-link-color-rgb: 74, 144, 226 !important;
+  --bs-link-hover-color: #357ABD !important;
   color-scheme: light !important;
 }
 
@@ -41,10 +41,10 @@ body * {
 .jumbotron {
   background-color: #ffffff !important;
   color: #000000 !important;
-  padding:20px; 
+  padding:15px; 
   padding-bottom:7px; 
-  margin-top:22px; 
-  margin-bottom:22px;
+  margin-top:15px; 
+  margin-bottom:15px;
 }
 
 .navbar {
@@ -100,17 +100,58 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #000000 !important;
 }
 
+// Reduce font sizes
+h3 {
+  font-size: 1.5rem !important;
+}
+
+h4 {
+  font-size: 1.2rem !important;
+}
+
+h5 {
+  font-size: 1.1rem !important;
+}
+
 p, span, div, li, td, th, label, small, strong, em, b, i {
   color: #000000 !important;
 }
 
-// Links - light blue for homepage
-a, a:link, a:visited {
+// Links - light blue (MUST be last to override everything)
+a, a:link, a:visited,
+a:link *, a:visited *,
+.jumbotron a, 
+.jumbotron a *, 
+.jumbotron a:link,
+.jumbotron a:visited,
+#newsid a, 
+#newsid a *,
+#newsid a:link,
+#newsid a:visited,
+.sidebar a,
+.sidebar a *,
+.sidebar a:link,
+.sidebar a:visited,
+body a,
+body a:link,
+body a:visited {
   color: #4A90E2 !important;
+  text-decoration: none !important;
 }
 
-a:hover, a:active {
+a:hover, a:active,
+a:hover *, 
+a:active *,
+.jumbotron a:hover,
+.jumbotron a:active,
+#newsid a:hover,
+#newsid a:active,
+.sidebar a:hover,
+.sidebar a:active,
+body a:hover,
+body a:active {
   color: #357ABD !important;
+  text-decoration: underline !important;
 }
 
 // Keep black text for non-link elements
@@ -118,15 +159,15 @@ p, span, div, li, td, th, label, small, strong, em, b, i {
   color: #000000 !important;
 }
 
-.navbar * {
+.navbar *:not(a):not(a *) {
   color: #000000 !important;
 }
 
-.jumbotron * {
+.jumbotron *:not(a):not(a *) {
   color: #000000 !important;
 }
 
-.panel-footer * {
+.panel-footer *:not(a):not(a *) {
   color: #000000 !important;
 }
 
