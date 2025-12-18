@@ -60,7 +60,6 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-scholar:
   style: apa
   locale: en
   source: "./_bibliography"
