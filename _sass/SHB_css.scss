@@ -89,10 +89,10 @@ section#footer {
   color: #000000 !important;
 }
 
-// Force all text to black - override everything including dark theme
-*,
-[data-bs-theme="dark"] *,
-[data-bs-theme="light"] * {
+// Force all text to black - override everything including dark theme (except links)
+*:not(a),
+[data-bs-theme="dark"] *:not(a),
+[data-bs-theme="light"] *:not(a) {
   color: #000000 !important;
 }
 
@@ -104,12 +104,18 @@ p, span, div, li, td, th, label, small, strong, em, b, i {
   color: #000000 !important;
 }
 
+// Links - light blue for homepage
 a, a:link, a:visited {
-  color: #000000 !important;
+  color: #4A90E2 !important;
 }
 
 a:hover, a:active {
-  color: #333333 !important;
+  color: #357ABD !important;
+}
+
+// Keep black text for non-link elements
+p, span, div, li, td, th, label, small, strong, em, b, i {
+  color: #000000 !important;
 }
 
 .navbar * {
@@ -130,7 +136,7 @@ a:hover, a:active {
 }
 
 .container-fluid {
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 .container-footer {
