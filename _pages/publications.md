@@ -28,6 +28,14 @@ iframe {
   display: inline;
   vertical-align: middle;
 }
+/* Uniform font size for all publication entries */
+.jumbotron .col-md-12 {
+  font-size: 1rem !important;
+}
+.jumbotron .col-md-12 p,
+.jumbotron .col-md-12 div {
+  font-size: 1rem !important;
+}
 </style>
 
 # Full List of Publications
@@ -35,12 +43,14 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
 
-<h2>
-Book Chapter<br><br></h2><h4>
+<h2>Book Chapter</h2>
+<p style="font-size: 1rem !important;">
 • Gofman, Sinjini Mitra, Yu Bai, and Yoonsuk Choi,"<a href="https://scholar.google.com/scholar?q=Security+Privacy+and+Usability+Challenges+in+Selfie+Bio-metrics.+Yu+Bai" target="_blank">Security, Privacy, and Usability Challenges in Selfie Bio-metrics.</a>" In Selfie Biometrics, pp. 313-353. Springer, Cham, 2019.<br><br>
 • X.Tang, X. Xu,Y. Bai,"<a href="https://scholar.google.com/scholar?q=Computer+Essential+Yu+Bai" target="_blank">Computer Essential</a>," Tsinghua University Press, ISBN 978730243418.<br><br><br>
-</h4><h2>
-Journal Papers<br><br></h4><h4>
+</p>
+
+<h2>Journal Papers</h2>
+<p style="font-size: 1rem !important;">
 • [Nature Digital Medicine'25] Yang, Yabing, Chanchan Xiao, Dehua Zou, Lu Wang, Ruijie Yang, Yiran Bai, and Yu Bai. "<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=romDDywAAAAJ&citation_for_view=romDDywAAAAJ:u5HHmVD_uO8C" target="_blank">Deep learning-enabled multiphoton microscopy predicts colorectal cancer recurrence from routine FFPE specimens</a>." Nature Digital Medicine 8, no. 1 (2025): 689.<br><br>
 • [Quantitative Imaging in Medicine and Surgery'25] Jin, Y., R. Tian, Q. Yu, Y. Bai, G. Chao, D. Liu, and Y. Guo. "<a href="https://scholar.google.com/scholar?q=EMCAH-Net:+an+effective+multi-scale+context+aggregation+hybrid+network+for+medical+image+segmentatio+Yu+Bai" target="_blank">EMCAH-Net: an effective multi-scale context aggregation hybrid network for medical image segmentation.</a>" Quantitative Imaging in Medicine and Surgery 15, no. 4 (2025): 3064.<br><br>
 • [IEEE TCAD'25] Yasaei, R., M. Abdullah Al Faruque, A. Acharyya, T. Adegbija, M. Adelkhani, R. Agarwal, S. Agarwal, E. Aghapour, and Yu Bai. "<a href="https://scholar.google.com/scholar?q=IEEE+Transactions+on+Computer-Aided+Design+of+Integrated+Circuits+and+Systems+Yu+Bai" target="_blank">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a>." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2025): 25-38.<br><br>
@@ -67,9 +77,11 @@ Journal Papers<br><br></h4><h4>
 • [IEEE TETC'16 IF=3.626] M. Alawad, Yu Bai, R. DeMara and M. Lin, "<a href="https://doi.org/10.1109/TETC.2016.2601220" target="_blank">Robust Large-Scale Convolution through Stochastic-Based Processing Without Multipliers,</a>" in IEEE Transactions on Emerging Topics in Computing, vol. PP, no. 99, pp. 1-1. doi: 10.1109/TETC.2016.2601220<br><br>
 • [JPLEA'16] Yu Bai, Lin M.,"<a href="https://scholar.google.com/scholar?q=Stochastic-Based+Spin-Programmable+Gate+Array+with+Emerging+MTJ+Device+Technology+Yu+Bai" target="_blank">Stochastic-Based Spin-Programmable Gate Array with Emerging MTJ Device Technology,</a>" Journal of Low Power Electronics and Applications., 2016; 6(3):15.,<br><br>
 • [Electronics'15 IF=2.11] Yu Bai, Alawad M, DeMara RF, Lin M.,"<a href="https://scholar.google.com/scholar?q=Optimally+fortifying+logic+reliability+through+criticality+ranking+Yu+Bai" target="_blank">Optimally fortifying logic reliability through criticality ranking,</a>" Electronics, 2015; 4(1):150-172.<br><br>
-• [JECE'12 IF=1.04] Lin M.,Yu Bai, DeMara RF,"<a href="https://doi.org/10.1155/2012/593532" target="_blank">Selectively fortifying reconfigurable computing device to achieve higher error resilience</a>," Journal of Electrical and Computer Engineering (JECE 2012), Article 5, Jan.2012. DOI=http://dx.doi.org/10.1155/2012/593532.<br><br><br></h4>
+• [JECE'12 IF=1.04] Lin M.,Yu Bai, DeMara RF,"<a href="https://doi.org/10.1155/2012/593532" target="_blank">Selectively fortifying reconfigurable computing device to achieve higher error resilience</a>," Journal of Electrical and Computer Engineering (JECE 2012), Article 5, Jan.2012. DOI=http://dx.doi.org/10.1155/2012/593532.<br><br><br>
+</p>
 
-<h2>Conference Papers<br><br></h2><h4>
+<h2>Conference Papers</h2>
+<p style="font-size: 1rem !important;">
 • [IEEE ICDIK'24] Martinez, G., K. Huang, Y. Lou, and Y. Bai. "<a href="https://scholar.google.com/scholar?q=Innovative+Applications+of+AI+and+3D+Printing+in+Digital+Dentistry:+Enhancing+Accuracy+and+Efficienc+Yu+Bai" target="_blank">Innovative Applications of AI and 3D Printing in Digital Dentistry: Enhancing Accuracy and Efficiency in Dental Care.</a>" 2024 International Conference on Identification, Information and Knowledge in the Internet of Things (ICDIK), 2024.<br><br>
 • [IEEE CDC'24] Mohajeran, S., H. Ke, J. Ke, M. Li, Y. Bai, and M. Li. "<a href="https://scholar.google.com/scholar?q=Streamlined+Video+Object+Detection+with+YOLOX+YOLOV5+YOLOV7+and+YOLOV8.+Yu+Bai" target="_blank">Streamlined Video Object Detection with YOLOX YOLOV5 YOLOV7 and YOLOV8.</a>" 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), 2024.<br><br>
 • [NSF Award'24] Bai, Y. "<a href="https://scholar.google.com/scholar?q=CAP:+INSPIRE-Inclusive+Strategies+for+Promoting+AI+Research+and+Education+Empowering+Underrepresente+Yu+Bai" target="_blank">CAP: INSPIRE-Inclusive Strategies for Promoting AI Research and Education, Empowering Underrepresented Students and Faculty.</a>" NSF Award Number 2433391. Directorate for Computer and Information Science and Engineering, 2024.<br><br>
@@ -102,9 +114,9 @@ Journal Papers<br><br></h4><h4>
 • [IEEE ICICM'16] Yu Bai, Mingjie Lin,"<a href="https://doi.org/10.1109/ICAM.2016.7813563." target="_blank"> Stochastic-Based Logic Circuit Synthesis and Implementation through Large-Fanin Threshold Logic with Magnetic Tunneling Junctions </a>" 2016 IEEE International Conference on Integrated Circuits and Microsystems (ICICM 2016), Chengdu, 2016, pp. 55-60. doi: 10.1109/ICAM.2016.7813563. Acceptance rate (47%)<br><br>
 • [ACM GLSVLSI'16] Yu Bai, Hu B., Kuang W., Lin M.,"<a href="https://doi.org/10.1145/2902961.2903019" target="_blank">Magnetic domain wall implemented null con- vention logic</a>," 26rd ACM International Conference on Great lakes symposium on VLSI (GLSVLSI2016), DOI=http://dx.doi.org/10.1145/2902961.2903019. Acceptance rate (20.1%)<br><br>
 • [ACM FPGA'16] Yu Bai, Lin M.,"<a href="https://scholar.google.com/scholar?q=Stochastic-based+spin-programmable+gate+array+with+emerging+MTJ+device+technology+Yu+Bai" target="_blank">Stochastic-based spin-programmable gate array with emerging MTJ device technology (Abstract only)</a>," In Proceedings of the 2016 ACM/SIGDA International Symposium on Field- Programmable Gate Arrays (FPGA16). Pages 279-279 ACM New York, NY, USA, ISBN: 978-1-4503-3856-1 doi>10.1145/2847263.2847317. Acceptance rate (24%)<br><br>
-• [IUCC'15] Yu Bai, Lin M.,</a>"<a href="https://scholar.google.com/scholar?q=+Universal+random+number+generation+with+field-programmable+analog+array+Yu+Bai" target="_blank"> Universal random number generation with field-programmable analog array,</a>" 14th 2015 IEEE International Conference on Ubiquitous Computing and Communications (IUCC2015), Liv- erpool, 2015, pp. 1338-1343.doi: 10.1109/CIT/IUCC/DASC/PICOM.2015.198. Acceptance rate (20.3%)<br><br>
+• [IUCC'15] Yu Bai, Lin M.,"<a href="https://scholar.google.com/scholar?q=+Universal+random+number+generation+with+field-programmable+analog+array+Yu+Bai" target="_blank">Universal random number generation with field-programmable analog array</a>," 14th 2015 IEEE International Conference on Ubiquitous Computing and Communications (IUCC2015), Liv- erpool, 2015, pp. 1338-1343.doi: 10.1109/CIT/IUCC/DASC/PICOM.2015.198. Acceptance rate (20.3%)<br><br>
 • [ACM FPGA'15] Yu Bai, Lin M.,"<a href="https://doi.org/10.1145/2684746.2689078" target="_blank">Energy-efficient discrete signal processing with field programmable analog arrays (FPAAs)</a>," In Proceedings of the 2015 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA15). ACM, New York, NY, USA, 84-93. DOI=10.1145/2684746.2689078. Acceptance rate (24%)<br><br>
-• [IEEE ReConFig'14] Yu Bai, Lin M.,</a>"<a href="https://scholar.google.com/scholar?q=Stochastically+computing+discrete+Fourier+transform+with+reconfig-+urable+digital+fabric+Yu+Bai" target="_blank">Stochastically computing discrete Fourier transform with reconfig- urable digital fabric,</a>"ReConFigurable Computing and FPGAs (ReConFig), 2014 International Conference on , vol., no., pp.1,7, 8-10 Dec. 2014 doi: 10.1109/ReConFig.2014.7032558. Acceptance rate (29.3%)<br><br>
+• [IEEE ReConFig'14] Yu Bai, Lin M.,"<a href="https://scholar.google.com/scholar?q=Stochastically+computing+discrete+Fourier+transform+with+reconfig-+urable+digital+fabric+Yu+Bai" target="_blank">Stochastically computing discrete Fourier transform with reconfig- urable digital fabric</a>,"ReConFigurable Computing and FPGAs (ReConFig), 2014 International Conference on , vol., no., pp.1,7, 8-10 Dec. 2014 doi: 10.1109/ReConFig.2014.7032558. Acceptance rate (29.3%)<br><br>
 • [ACM FPGA'14] Mohammed Alawad, Yu Bai, Ronald DeMara, Lin M.,"<a href="https://doi.org/10.1145/2554688.2554769" target="_blank">Energy-efficient multiplier-less discrete convolver through probabilistic domain transformation</a>," In Proceedings of the 2014 ACM/SIGDA Interna- tional Symposium on Field-programmable Gate Arrays (FPGA14). ACM, New York, NY, USA, 185-188. DOI=10.1145/2554688.2554769 http://doi.acm.org/10.1145/2554688.2554769. Acceptance rate (36%)<br><br>
 • [ACM FPGA'14] Yu Bai, Mohammed Alawad, and Mingjie Lin.,"<a href="https://doi.org/10.1145/2554688.2554752" target="_blank">Optimally mitigating BTI-induced FPGA device ageing with discriminative voltage scaling (abstract only)</a>," In Proceedings of the 2014 ACM/SIGDA International Symposium on Field programmable Gate Arrays (FPGA14). ACM, New York, NY, USA, 246-246. DOI=10.1145/2554688.2554752 http://doi.acm.org/10.1145/2554688.2554752. Acceptance rate (36%)<br><br>
 • [IEEE ReConFig'13] Yu Bai, Alawad, M., Riera, M., Mingjie Lin, "<a href="https://doi.org/10.1109/ReConFig.2013.6732300" target="_blank">Improving memory performance in reconfigurable computing architecture through hardware-assisted dynamic graph</a>," Reconfigurable Com- puting and FPGAs (ReConFig), 2013 International Conference on , vol., no., pp.1,8, 9-11 Dec. 2013 doi: 10.1109/ReConFig.2013.6732300. Acceptance rate (35.2%)<br><br>
@@ -113,7 +125,8 @@ Journal Papers<br><br></h4><h4>
 • [ACM FPGA'13] Yu Bai , Abigail Fuentes, Mingjie Lin, Riera, M.,"<a href="https://doi.org/10.1145/2435264.2435333" target="_blank">Exploiting algorithmic-level memory par- allelism in distributed logic memory architecture through hardware assisted dynamic graph (abstract only)</a>," In Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013). ACM, New York, NY, USA, 273-273. DOI=10.1145/2435264.2435333 http://doi.acm.org/10.1145/ 2435264.2435333. Acceptance rate (24%)<br><br>
 • [IEEE HASE'11] Mingjie Lin, Yu Bai, Wawrzynek J., "<a href="https://doi.org/10.1109/HASE.2011.49" target="_blank">Discriminatively fortified computing with reconfig- urable digital fabric</a>," High-Assurance Systems Engineering (HASE), 2011 IEEE 13th International Sympo- sium on , vol., no., pp.112,119, 10-12 Nov. 2011 doi: 10.1109/HASE.2011.49. Acceptance rate (24%)<br><br>
 • [DSD'11] Yu Bai, Weidong Kuang, "<a href="https://doi.org/10.1109/DSD.2011.35" target="_blank">Design of asynchronous circuits on FPGAs for soft error tolerance</a>," Digital System Design (DSD), 2011 14th Euromicro Conference on , vol., no., pp.247,253, Aug. 31 2011-Sept. 2 2011 doi: 10.1109/DSD.2011.35. Acceptance rate (31%)<br><br>
-• [SPL'11] Weidong Kuang, Yu Bai, "<a href="https://doi.org/10.1109/SPL.2011.5782652" target="_blank">Soft error in FPGA-implemented asynchronous circuits</a>," Programmable Logic (SPL), 2011 VII Southern Conference on, vol., no., pp.221,226, 13-15 April 2011 doi: 10.1109/SPL.2011.57826 52. Acceptance rate (?)<br><br></h4>
+• [SPL'11] Weidong Kuang, Yu Bai, "<a href="https://doi.org/10.1109/SPL.2011.5782652" target="_blank">Soft error in FPGA-implemented asynchronous circuits</a>," Programmable Logic (SPL), 2011 VII Southern Conference on, vol., no., pp.221,226, 13-15 April 2011 doi: 10.1109/SPL.2011.57826 52. Acceptance rate (?)<br><br>
+</p>
 
 
 </div>
