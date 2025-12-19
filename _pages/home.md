@@ -5,9 +5,11 @@ sitemap: false
 permalink: /
 ---
 
+<div style="text-align: center;">
 ### Welcome to
 
 ### Intelligent Computing Joint Research Laboratory
+</div>
 
 <div class="container">
 <div class="row">
