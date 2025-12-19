@@ -122,7 +122,8 @@ h5, .h5 {
 }
 
 // Center homepage welcome text
-h3[style*="text-align: center"] {
+h3[style*="text-align: center"],
+div[style*="text-align: center"] h3 {
   text-align: center !important;
 }
 
