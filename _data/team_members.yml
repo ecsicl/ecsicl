@@ -1,54 +1,54 @@
 - name: "Mingshuo Liu"
   photo: uci.jpg
-  info: UCI Phd , Started 2023
+  info: UCI Phd Candidiate, Started 2023
   #email: 
   scholar: https://scholar.google.com/citations?user=0e_Ddb0AAAAJ&hl=en
 
 - name: "Shiyi Luo"
   photo: uci.jpg
-  info: UCI Phd , Started 2024
+  info: UCI Phd Candidiate, Started 2024
   #email: 
   scholar: https://scholar.google.com/citations?user=lV8s7xUAAAAJ&hl=en
 
 - name: "Yunduan Lou"
   photo: uci.jpg
-  info: UCI Phd , Started 2025
+  info: UCI Phd Student, Started 2025
   #email: 
   researchgate: https://www.researchgate.net/scientific-contributions/Yunduan-Lou-2307953159
 
 - name: "Jialin Tang"
   photo: uci.jpg
-  info: UCI Phd , Started 2026
+  info: UCI Phd Student, Started 2026
   #email: tjl_0516@csu.fullerton.edu
   scholar: https://scholar.google.com/citations?user=tOytfmwAAAAJ&hl=en
 
 - name: "Jiaqi Zhang"
   photo: csuf.jpg
-  info: Graduate Student in Computer Engineering, Started 24Fall
+  info: MS Candidiate in Computer Engineering, Started 24Fall
   #email: 
   website: https://ecsicl.github.io/team/
 
 - name: "XiangChen Li"
   photo: csuf.jpg
-  info: Graduate Student in Computer Engineering, Started 25Fall
+  info: MS Student in Computer Engineering, Started 25Fall
   #email: 
   website: https://ecsicl.github.io/team/
 
 - name: "Zhijie Ma"
   photo: csuf.jpg
-  info: Graduate Student in Electrical Engineering, Started 25Fall
+  info: MS Student in Electrical Engineering, Started 25Fall
   #email: 
   website: https://ecsicl.github.io/team/
 
 - name: "Linxin Zuo"
   photo: csuf.jpg
-  info: Graduate Student in Computer Engineering, Started 25Fall
+  info: MS Student in Computer Engineering, Started 25Fall
   #email: 
   website: https://ecsicl.github.io/team/
 
 - name: "Kailun Huang"
   photo: csuf.jpg
-  info: Graduate Student in Computer Engineering, Started 26Spring
+  info: MS Student in Computer Engineering, Started 26Spring
   #email: 
   website: https://ecsicl.github.io/team/
 
